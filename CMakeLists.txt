@@ -3,4 +3,4 @@ project(YDCStudy C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(YDCStudy main.c)
+add_executable(YDCStudy main.c basic_data_study.c addtownum.c storageclass.c)
